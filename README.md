@@ -8,7 +8,7 @@ _noun_ - an introductory piece of music, the first movement of a suite.
 
 _Now lets try to make sense of this._
 
-#### About Splic & The Mission
+### About Splic & The Mission
 
 Ideas rise fast and fall faster. Apps get boring by the second. We're not trying to build an app. This isn't another flappy birds. We're trying to promote a concept. A concept, explained later, that we call **open source music**. Splic is not really an app.
 
@@ -27,13 +27,12 @@ There is no point reinventing the wheel. On a large enough scale, a single man's
 Thus, Splic is about promoting this concept that we call open source music.
 Imagine if this app achieves world domination, artists from all over the world shall use this app to create or release music. Imagine open music becomes a standard. Imagine one powerful app taking care of every aspect related to the word music.
 
-#### Planned Features
+### Planned Features
 
 Splic is a super app meant to take care of broadly three components of music:
 - Create
 - Play
 - Discover
-
 
 
 1. Create
@@ -91,7 +90,7 @@ Splic is a super app meant to take care of broadly three components of music:
 
 _Note:_ We know that this isn't the most comprehensive or explicit list ever; please feel free to reach out to us if you feel like reading the detailed documentation.
 
-#### We are looking for people!
+### We are looking for people!
 
 Splic is a very large scale project, still in its planning phases. However, to make it so, we'll need all the help we can get.
 If any part of this project intrigues you, send us an email at [admin@splic.xyz][4b9d5d0a].
