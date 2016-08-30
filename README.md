@@ -10,6 +10,7 @@ _Makes sense, we know!_
 
 #### About Splic & The Mission
 
+Ideas rise fast and fall faster. Apps get boring by the second. We're not trying to build an app. This isn't another flappy birds. We're trying to promote a concept. A concept, explained later, that we call **open source music**. Splic is not really an app.
 
 It's a tool, to implement this concept.
 
