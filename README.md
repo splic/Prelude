@@ -33,8 +33,6 @@ Splic is a super app meant to take care of broadly three components of music:
 - Create
 - Play
 - Discover
-
-
 1. Create
 
   - 1.1 Solo Project
